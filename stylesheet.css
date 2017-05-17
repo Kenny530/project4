@@ -5,11 +5,12 @@
 	float: left;
 	display:block;
 	text-align:center;
-	color:black;
+	color:white;
 	padding: 20px 18px;
 	font-size: 22px;
-	font-family: Asar;
-	border: double;
+	font-family: baloo;
+	border: solid;
+	margin-left:3.5%;
 }	
 .nav a:hover{
 		background-color:#F6ECFF;
@@ -20,18 +21,103 @@
 		color:black;
 }
 body{
-	background-color:#E8BAB4;
+	background-image:url(images/mlb.jpeg);
+	background-size:100%;
+	font-family: 'Baloo', cursive;
 }
 .cubs{
-	float: bottom-left;
-	width: 700px;
-	height:500px;
+	height:300px;
 }
 .astros{
-	float: right;
-	width: 700px;
-	height: 500px;
+	height: 300px;
 }
 .astro{
 	float:right;
+	color:black;
 }
+.cub{
+	color:black;
+}
+.stats{
+	text-align:center;
+	color:red;
+	font-family: 'Baloo', cursive;
+}
+.vil{
+	margin-left:25%;
+	margin-right:25%;
+	color:black;
+	font-family: 'Baloo', cursive;
+}
+.one{
+	color:red;
+	font-family: 'Baloo', cursive;
+}
+.two{
+	color:red;
+	font-family: 'Baloo', cursive;
+}
+.stand{
+	color: red;
+	display:inline-block;
+	margin-left:auto;
+	margin-right:auto;
+	font-family: 'Baloo', cursive;
+}
+.lb{
+	color:black;
+	Margin-right:15%;
+	margin-left:15%;
+	padding-left:10px;
+	padding-right:10px;
+	font-family: 'Baloo', cursive;
+}
+.ex{
+	color:red;
+	text-align:center;
+	font-family: 'Baloo', cursive;
+}
+.nba{
+	color:black;
+	margin-left:25%;
+	margin-right:25%;
+	font-family: 'Baloo', cursive;
+	
+}
+.destroy{
+	font-size:32px;
+	color:black;
+	margin-left:25%;
+	margin-right:25%;
+	font-family: 'Baloo', cursive;
+}
+.bad{
+	color: red;
+	display:inline-block;
+	margin-left:auto;
+	margin-right:auto;
+	font-size: 28px;
+	font-family: 'Baloo', cursive;
+}
+.call{	font-size:32px;
+	color:black;
+	margin-left:25%;
+	margin-right:25%;
+	font-family: 'Baloo', cursive;
+	}
+	.final{
+		font-size:32px;
+		color:black;
+	margin-left:25%;
+	margin-right:25%;
+	text-align:center;
+	font-family: 'Baloo', cursive
+	}
+	.wreck{
+	font-size:32px;
+		color:black;
+	margin-left:25%;
+	margin-right:25%;
+	text-align:center;
+	font-family: 'Baloo', cursive	
+	}
